@@ -1,10 +1,10 @@
-# Tops CSL/CSM Buddy
+# SuperMarket CSL/CSM Buddy
 
-As a Customer Service Lead/Manager at Tops Friendly Markets ther are many weekly tasks that could be automated in order to save time and allow for more customer interaction for these associates. Tasks such as the weekly register lineups can be automatically generated using information readily available in the Tops computer systems. For now manual entry will be sufficient to show the viability of the product.
+As a Customer Service Lead/Manager at a SuperMarket ther are many weekly tasks that could be automated in order to save time and allow for more customer interaction for these associates. Tasks such as the weekly register lineups can be automatically generated using information readily available in the SuperMarket computer systems. For now manual entry will be sufficient to show the viability of the product.
 
 ## Stored Associate Statistics
 
-Every store associate has many statistics that are not accessable to current Tops CSLs for use. Stuff such as
+Every store associate has many statistics that are not accessable to current SuperMarket CSLs for use. Stuff such as
 
 + Is the associate trained in any departments
 ... Such as the Meat Department, Office, Deli, Bakery, Produce, Stock
